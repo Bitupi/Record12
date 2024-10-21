@@ -1,0 +1,26 @@
+{
+  "name": "Nelle Cannon",
+  "age": 28,
+  "address": {
+    "street": "Uzwas Highway",
+    "city": "Kobitfig",
+    "state": "NJ",
+    "zip": "36128"
+  },
+  "contact": {
+    "phone": "(917) 404-5353",
+    "servicePhone": "800335985"
+  },
+  "birthday": "1987-08-17T02:39:46.536Z",
+  "ip": "169.57.115.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Lilzi zuram bivdo toj ponhiraz goacual gaali mapti gehufin hutgur tarumac fid mitrugaw obeji. Acevak etuwona bekarel jow karnal es dif rovve vajujur uszodaf nuuw ac ga bi ud jusojovu. Urragok befla eli sawapec dagic befuzuho etje bu dize esosonu vuvvez gu ubluem hijute sezejka. Aca lorwo fuih duno hivji emewo hobi hu sojdisih jazho peuma vijudi lem ca iztim.",
+    "bio": "Con urkez lad kutrug hueji ku sap zesduik un ho lonaz saj go poif lanco. Uro fefe bod co egu uje cin an izoha nobhesuj uboawuzeh we. Am jeroj deb atve ginaheb zi veto lulkuja jaguve tacvofwej mabne ebpibpi iz watah gofew."
+  },
+  "apiKey": "c4b271d9366f27914b3e9c747464eab8ea5a69164b981c871a6b235d39bf638d",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
