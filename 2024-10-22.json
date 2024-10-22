@@ -1,0 +1,26 @@
+{
+  "name": "Justin Cummings",
+  "age": 36,
+  "address": {
+    "street": "Hovu River",
+    "city": "Jaidal",
+    "state": "IN",
+    "zip": "31635"
+  },
+  "contact": {
+    "phone": "(911) 699-7547",
+    "servicePhone": "800791966"
+  },
+  "birthday": "1985-03-23T07:21:40.247Z",
+  "ip": "176.13.102.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Et tonuco bon ibu ga etite purdemis ba migve omievki zezihzuw bar ziwjekkiv zaptila femwekbo. Ace asa eki tobufuh ukufele epahiigi re hivojwib olahutu dir vazej voriwe tujek re. Evizuluh nah bidrerof fow lab bevluz epi ecum kob deutarep lauje hiwnav bosud. Ibovike imi gair kordoaza ib cub kavezi mojrin bedwibad kag ozcitmos zidan poc mik dopubdu naedi.",
+    "bio": "Ofeculuh bunen nucfe ew gouriiha awnupu ip foabji ibkun za hejafwet ajco. Tucros di condokol laip za gus cukot talotudo ritji epotuz feje win difica cifdin ri sudbeuv woih. Up nifubo unrodov ec up siw patehu jimatma gocora upi dopobaso isuma ihiol ebope."
+  },
+  "apiKey": "9c0df3fe35544eeb9d060c8f1bbeaaf804d561d77d759282e29e1b1422e5de14",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
