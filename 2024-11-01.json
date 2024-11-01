@@ -1,0 +1,26 @@
+{
+  "name": "Erik Miller",
+  "age": 35,
+  "address": {
+    "street": "Fibi Park",
+    "city": "Ocapicjo",
+    "state": "NV",
+    "zip": "31947"
+  },
+  "contact": {
+    "phone": "(367) 370-3352",
+    "servicePhone": "800994191"
+  },
+  "birthday": "1986-12-05T12:35:19.908Z",
+  "ip": "127.248.236.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Woed arpuma ulcedneg basnarod ihoil buesbaw bej apcukpun er leew evucakzer mewopo inode upitoh udusujza keke. Ruj bahiv vafbec ufo ji wu ticeus empiv rew taowdoj ofja likegje ji ju. Jevjevkab kozcacme heseg evhagvi ta ge kar wowagi zepvikraf un gad eto. Zunjofe bivape rogge dam irop tinfa cer jun sugebni falir jo cinvog.",
+    "bio": "Pad gehus lodjobmet ka covwif uni dataroiz romodson zepeh usu cuw doka cena. Romwo juhep ce lu wecu si ejawov gawev fu kobi vif ro luttenam ugu not. Ahu ohoatador jenuz coh ad zefa arukolgo ha buenubiw fizit gotwuni aciwsu ohjen. Cisobnic ganovto gofosuos ajkahve ugisipew perit visler sukis iwaapuef toufa oluudti enaopza op."
+  },
+  "apiKey": "453faeccea4d2f2977ccc514c5826c87edbc50d85f65d4e8108a8d2f580ebbe9",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
