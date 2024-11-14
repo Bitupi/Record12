@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Hill",
+  "age": 41,
+  "address": {
+    "street": "Cahi Trail",
+    "city": "Sedlekce",
+    "state": "MO",
+    "zip": "75001"
+  },
+  "contact": {
+    "phone": "(947) 870-2477",
+    "servicePhone": "800696467"
+  },
+  "birthday": "2005-06-19T12:24:08.335Z",
+  "ip": "60.247.180.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Pab niwu aduca suwkuz kefagel ziha nagda ipavuvi da mudukep mu feinawe lamaja. Egduhzur govo vejcuwgij calve wucaguka fit aga osaen ijkalas usgupfek gawfusa lupbe he bogem fuwza obhidmin. Suhkom tacbo kasuti fowuj butemma adabig is vamci me cetehik ulebik ekumevu.",
+    "bio": "Fervuzagu rod zumzezpe ga le lefiri dum luvenawu suv vaw fepacu badtof dif. Beelpen machun op teh fivfo lidme wis ihcoeno eta fogarij hasdo vog rif gid so. Nooddo oto finbo kawuna ud cukilsof co ho mohor kacafi sehlu calus buzrohti ro pahudso zu bi miktacide. Bu vokjesod bonusu voufodic lo oz zi bovde iz zu wutimi we woapuro bekwowe takag."
+  },
+  "apiKey": "55ad9deffa0609b413700de1a9447675006ffe365040c8d1140e510d54a502bb",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
