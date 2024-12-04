@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Walsh",
+  "age": 35,
+  "address": {
+    "street": "Bomeje Key",
+    "city": "Akhoola",
+    "state": "MA",
+    "zip": "88950"
+  },
+  "contact": {
+    "phone": "(977) 687-3876",
+    "servicePhone": "800968182"
+  },
+  "birthday": "1982-12-29T11:55:53.943Z",
+  "ip": "119.162.192.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu zeetulem ticez fonif hojjil sak gut hah les ribe kuw banlu lofejes mu row. Mez kohzuwig sow apuja ogsajol agoejoro pid la linohu sec lem wolijka. Goj cuwuep me rop vet kucvuoli vab fasalaj iguvili do zakwe um pib du geuv. Ujefi kul helazfaj tujuc ciwe setodih rag erazorap janri gadoc de dalipdif be esjafca atta rif.",
+    "bio": "Da ruus zemekwic zeafe uw woegeh et waato muc ze idu enu zar boc jefoc. Jat gawnezi arokil luw paugi hek roni legen kuvnivta cibece fabeje nolwe bid. Sonlufi owasaho tadaug dalcom veh wijevgo eho ozuzol rikziwoj ne gerugfit luthafvu doc."
+  },
+  "apiKey": "456843eff23f9a8d7522984d5fb104a17df5dba9cc3862ea03726c8d87fa4fbf",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
