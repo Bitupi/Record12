@@ -1,0 +1,26 @@
+{
+  "name": "Emily Howell",
+  "age": 22,
+  "address": {
+    "street": "Jerup Glen",
+    "city": "Hogahabi",
+    "state": "OR",
+    "zip": "84098"
+  },
+  "contact": {
+    "phone": "(932) 500-1176",
+    "servicePhone": "800859229"
+  },
+  "birthday": "1979-03-13T03:59:55.450Z",
+  "ip": "90.156.63.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Rol riz cihkij aroze bu siweini sahemice isucibor zuic palic pisogo darepu. Megnoewi zilecfol zu nofe lagvobzud lumusmij ado ginnef ag cubtamuf ruhici amotom juve. Olbes elwo gocfot tirset wur abomid ceun cidew mu ceri zi du ki becde zawu ipajala.",
+    "bio": "Bone votow jojaceh venpumven cah surhag hozisak vo owube owurep fe owuven suvtos to fumhuim te mel. Cilveghed ha litazli paz kihe rit zagein nigle imuman wifnip virosi zi. Kuiripi tigjiffih zeflelu mur goglo wa dobrooji mo rigbe koima api la ocaficov ku. Ru ciedezu ipa leg inlew to rov agranwod vobow vothig asu epilit vevi. Lagek ko torov fegolo uvedachig ovsazsan cipro kitmo newupo nipip jiwiczab ba osupo."
+  },
+  "apiKey": "f519e08fb5216646e1b3e4adbc7edbd540877f479c8a128e35cdd446da7152ff",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
