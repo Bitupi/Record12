@@ -1,0 +1,26 @@
+{
+  "name": "Curtis Jimenez",
+  "age": 25,
+  "address": {
+    "street": "Povsel Street",
+    "city": "Bemiwcin",
+    "state": "MS",
+    "zip": "42077"
+  },
+  "contact": {
+    "phone": "(749) 578-8290",
+    "servicePhone": "800481597"
+  },
+  "birthday": "1993-11-04T07:18:36.289Z",
+  "ip": "213.109.66.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Esaru athigsut zivja favcudze op cehko zunak leb waap vohvoja lo tefahdam affor obotozne. Naja cifpug niujwa igca uhadenbef vemu tah tuwadjaf wimez mewguz li patic togur. Zi vubdo gipowu reezowep tirrozod ufuawutin fuh su nuh cihsohwu vikihoji pah gijuzih. Biwicahi pez ceatpef liju uhu gecarud nal ni pouc wi bow faepuha ni ewogecres.",
+    "bio": "Ohko ji zajuc depti vokupo sooro lu imici laabu muwzu wa wul fuv ihkon bozegigas jate labuhet. Ug menat sutwuwahu viepetap he hi isgi nobcoba nik gehke rizid dinvuic robado veconma tejpatne vud. Jisalan fecto huzakati riroruoza jewoubu ru kim ufaec um larodur korgorup kuktano mowo rudugi."
+  },
+  "apiKey": "cc7c7c34950bf4198946b8b2ac29bc7c094974bd634f66cd44fc7b0cd5d4b40a",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
