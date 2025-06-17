@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Baker",
+    "age": 106,
+    "address": {
+        "street": "Peter Trace",
+        "city": "New Matthewfort",
+        "state": "Texas",
+        "zip": "47844"
+    },
+    "contact": {
+        "phone": "001-338-722-0135",
+        "servicePhone": "800787351"
+    },
+    "birthday": "1919-21-10",
+    "ip": "53.143.88.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Single moment purpose. Article very before can. On various two already shoulder investment.\nPerformance own low only option. Must page end mother third. Myself morning list one.",
+        "bio": "Wind candidate lose production those. Fast same task.\nConcern team population different section provide. Late big able table opportunity star."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
