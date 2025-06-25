@@ -1,0 +1,25 @@
+{
+    "name": "Michael Daniels",
+    "age": 70,
+    "address": {
+        "street": "Kemp Camp",
+        "city": "Huntertown",
+        "state": "Washington",
+        "zip": "15969"
+    },
+    "contact": {
+        "phone": "864.934.9147x4434",
+        "servicePhone": "800603492"
+    },
+    "birthday": "1955-27-05",
+    "ip": "157.153.106.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Control customer health family maybe different church. Since break great try natural. Career before sound lay feel its.",
+        "bio": "Doctor require above. State important interview good team after fall. Oil worry herself through when. Third break toward study center.\nTv just on social effort claim. Be now modern two."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
