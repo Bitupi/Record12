@@ -1,0 +1,25 @@
+{
+    "name": "Angela Griffin",
+    "age": 16,
+    "address": {
+        "street": "Paula Mount",
+        "city": "Tylerton",
+        "state": "New York",
+        "zip": "12444"
+    },
+    "contact": {
+        "phone": "426.387.8390x086",
+        "servicePhone": "800530485"
+    },
+    "birthday": "2009-30-03",
+    "ip": "74.22.92.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Former matter live second everything prevent. Believe memory nature almost.\nPartner nor coach short learn system discuss. Quite interview reality.",
+        "bio": "Short word big recently act then upon. Send plan street relationship per participant experience. Change much dark national know meeting teach."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
