@@ -1,0 +1,25 @@
+{
+    "name": "Jane Hall",
+    "age": 39,
+    "address": {
+        "street": "Christian Parkways",
+        "city": "North Johnny",
+        "state": "Oklahoma",
+        "zip": "21599"
+    },
+    "contact": {
+        "phone": "675.265.6303x7829",
+        "servicePhone": "800948084"
+    },
+    "birthday": "1986-26-06",
+    "ip": "158.23.90.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide finish much it east article. Public understand already series although Congress south. Behavior head try right central. Scene week goal near capital read exactly.",
+        "bio": "Describe bar down term manager today. Task usually tell paper loss social lawyer. Teach tend mean individual know help."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
