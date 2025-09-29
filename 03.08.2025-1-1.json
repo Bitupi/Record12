@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Martin",
+    "age": 59,
+    "address": {
+        "street": "Holmes Ridges",
+        "city": "West Lori",
+        "state": "Mississippi",
+        "zip": "69648"
+    },
+    "contact": {
+        "phone": "(598)261-6046",
+        "servicePhone": "800019457"
+    },
+    "birthday": "1966-20-04",
+    "ip": "200.37.223.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate poor grow guess simple. Crime local technology light.\nLanguage fight country nice glass adult. Manager movement manage on child physical.",
+        "bio": "Today hospital specific opportunity most can minute artist. Million to cold worker. Smile set around hope maintain.\nBefore traditional admit experience. Marriage list go consumer."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
