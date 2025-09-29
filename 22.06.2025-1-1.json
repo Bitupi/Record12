@@ -1,0 +1,25 @@
+{
+    "name": "Jason Miller",
+    "age": 28,
+    "address": {
+        "street": "Price Prairie",
+        "city": "South Briantown",
+        "state": "Wisconsin",
+        "zip": "25359"
+    },
+    "contact": {
+        "phone": "622.394.0347",
+        "servicePhone": "800845741"
+    },
+    "birthday": "1997-20-05",
+    "ip": "61.125.87.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect chance wait suffer. Participant blood choose south eye.\nSenior scene candidate. Growth claim grow line. Second response once picture grow population.",
+        "bio": "Tree on none box. Want risk owner.\nDream well technology. Worker region check strong determine art. Arm thank teach tell chance.\nProject to scene through process role. Stuff thing involve become."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

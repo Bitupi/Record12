@@ -1,0 +1,25 @@
+{
+    "name": "Grace Harper",
+    "age": 9,
+    "address": {
+        "street": "Charles Locks",
+        "city": "New Isaac",
+        "state": "Maine",
+        "zip": "96582"
+    },
+    "contact": {
+        "phone": "(705)915-8280x677",
+        "servicePhone": "800420600"
+    },
+    "birthday": "2016-15-01",
+    "ip": "121.140.104.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Become right his example bag world floor. Bar recently listen finally lawyer respond strong. Single government cup only toward.\nIndustry traditional exist each trip. Himself democratic so.",
+        "bio": "Foreign enjoy marriage end American. Be blue trial feel citizen. Result property bar enough step international I. Great chair business party."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
