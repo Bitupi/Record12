@@ -1,0 +1,25 @@
+{
+    "name": "David Johnson",
+    "age": 40,
+    "address": {
+        "street": "Kimberly Brooks",
+        "city": "Brandytown",
+        "state": "Hawaii",
+        "zip": "47446"
+    },
+    "contact": {
+        "phone": "247.287.4033",
+        "servicePhone": "800966873"
+    },
+    "birthday": "1985-24-11",
+    "ip": "35.18.195.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform free these wife mind return size. Especially long on past far now number. Yard form ball pattern under shake pass.",
+        "bio": "During all know around still consider thing her. Economy cup small administration within.\nClaim chair about democratic blood according computer. Movement plant store cultural power soon."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

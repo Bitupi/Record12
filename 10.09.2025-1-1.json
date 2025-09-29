@@ -1,0 +1,25 @@
+{
+    "name": "Michael Kerr",
+    "age": 47,
+    "address": {
+        "street": "Adams Corner",
+        "city": "South Jason",
+        "state": "Idaho",
+        "zip": "85513"
+    },
+    "contact": {
+        "phone": "(943)960-6705x86967",
+        "servicePhone": "800041558"
+    },
+    "birthday": "1978-16-04",
+    "ip": "142.40.70.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Very good size special film look government. Performance understand others. Bed few many stock.",
+        "bio": "Might team upon dog. Child inside involve concern bank alone nice behind.\nTable off dream finish. Early individual fill work."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
