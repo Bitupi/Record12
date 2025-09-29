@@ -1,0 +1,25 @@
+{
+    "name": "Allison Watson",
+    "age": 3,
+    "address": {
+        "street": "Sullivan Course",
+        "city": "West Sarah",
+        "state": "New Hampshire",
+        "zip": "04999"
+    },
+    "contact": {
+        "phone": "601-624-8198x30698",
+        "servicePhone": "800844278"
+    },
+    "birthday": "2022-13-03",
+    "ip": "75.155.216.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Have provide benefit war last above sound. Before what medical long father executive.\nFive grow year draw any. Firm yeah court treatment what or collection outside. Play woman face above.",
+        "bio": "Grow kind but direction section represent reason. Together job family fill smile century seek."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

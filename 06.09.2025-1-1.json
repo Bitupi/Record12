@@ -1,0 +1,25 @@
+{
+    "name": "Gary Williams",
+    "age": 16,
+    "address": {
+        "street": "Thomas Court",
+        "city": "West Virginia",
+        "state": "Tennessee",
+        "zip": "22729"
+    },
+    "contact": {
+        "phone": "526.564.2790x403",
+        "servicePhone": "800449545"
+    },
+    "birthday": "2009-09-01",
+    "ip": "183.43.59.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense specific alone community. Movie spend past court himself rock benefit.\nFire response or star. Upon consumer but end job pattern.",
+        "bio": "Past second party office total feel sea.\nChance see program election series anything drop. Ahead very meet when."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
