@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Russell",
+    "age": 85,
+    "address": {
+        "street": "Simmons Cape",
+        "city": "West Brittneyburgh",
+        "state": "Connecticut",
+        "zip": "61569"
+    },
+    "contact": {
+        "phone": "001-408-531-8246",
+        "servicePhone": "800973589"
+    },
+    "birthday": "1940-10-07",
+    "ip": "197.138.252.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly several help kind win suggest. Anyone show better PM moment huge. Human response those central. Fact ahead moment campaign he record prepare.",
+        "bio": "My account yeah not level or. Huge upon firm.\nGet its majority third out dark picture. Too meet responsibility affect evening. Seem partner else inside kid issue."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
